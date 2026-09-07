@@ -1,0 +1,1114 @@
+﻿Cette conversation a été générée avec Duck.ai (https://duck.ai) à l'aide du modèle Claude Haiku 4.5 d'Anthropic. Les chats IA peuvent afficher des informations inexactes ou offensantes (voir https://duckduckgo.com/duckai/privacy-terms pour en savoir plus).
+
+====================
+
+Message 1 sur 1 de l'utilisateur - 07/09/2026 14:29:24:
+Agis comme un **Senior Full-Stack Developer + UI/UX Designer + Product Designer**, spécialisé dans les sites vitrines professionnels à forte conversion.
+
+Je veux créer un **template de site web vitrine premium, réutilisable et commercialisable**, destiné aux petites et moyennes entreprises au Maroc.
+
+Le template doit pouvoir être adapté rapidement à ces secteurs :
+
+* Architecte
+* Architecte d'intérieur
+* Décorateur
+* Entreprise de rénovation
+* Cuisiniste
+* Agence immobilière
+* Promoteur immobilier
+* Restaurant
+* Traiteur
+* Cabinet comptable
+* Expert-comptable
+* Cabinet juridique
+* Centre de formation
+* Garage automobile
+* Location de voitures
+* Entreprise de nettoyage
+* Transport / logistique
+* Entreprise de construction
+* Menuiserie
+
+## OBJECTIF PRINCIPAL
+
+Le site doit immédiatement donner l'impression d'une **vraie entreprise professionnelle**, et non d'un template généré automatiquement.
+
+Il doit :
+
+* inspirer confiance
+* présenter clairement l'activité
+* mettre en valeur les réalisations/services
+* générer des demandes de contact
+* faciliter le contact WhatsApp
+* être excellent sur mobile
+* être rapide
+* être SEO-friendly
+* permettre une adaptation rapide à différents métiers
+
+Le design doit être **sobre, élégant, professionnel et intemporel**.
+
+### INTERDICTION : DESIGN IA GÉNÉRIQUE
+
+Ne crée surtout pas :
+
+* un design futuriste inutile
+* des gradients excessifs
+* des cartes partout
+* des effets glassmorphism
+* des animations excessives
+* des illustrations IA génériques
+* des blobs
+* des éléments 3D décoratifs sans fonction
+* des sections copiées des templates populaires
+* une interface ressemblant à un dashboard SaaS
+* des textes marketing artificiels
+* un design répétitif
+
+Je veux un résultat qui ressemble au travail d'une **agence web haut de gamme**.
+
+Le design doit utiliser principalement :
+
+* excellente typographie
+* grille propre
+* espaces blancs maîtrisés
+* hiérarchie visuelle forte
+* photographie professionnelle
+* détails subtils
+* micro-interactions utiles
+* transitions fluides
+* boutons bien positionnés
+* compositions asymétriques lorsque cela améliore le rendu
+
+## DIRECTION ARTISTIQUE
+
+Créer une identité visuelle neutre permettant de changer facilement :
+
+* logo
+* nom de l'entreprise
+* couleur principale
+* photos
+* services
+* textes
+* coordonnées
+* témoignages
+* portfolio
+
+Prévoir un système de variables/design tokens :
+
+--primary
+--secondary
+--accent
+--background
+--surface
+--text
+--muted
+--border
+
+La couleur doit pouvoir être changée pour chaque client sans modifier toute l'interface.
+
+## STRUCTURE DU SITE
+
+### 1. HEADER
+
+Header professionnel et minimaliste.
+
+À gauche :
+
+LOGO / NOM ENTREPRISE
+
+Navigation :
+
+Accueil
+Services
+Réalisations
+À propos
+Avis
+Contact
+
+À droite :
+
+Bouton "Demander un devis"
+
+Sur mobile :
+
+menu hamburger propre.
+
+Le header doit devenir légèrement compact au scroll.
+
+---
+
+# 2. HERO
+
+Créer un Hero différent selon le secteur.
+
+Structure :
+
+Petit label :
+"EXPERTISE • QUALITÉ • PROXIMITÉ"
+
+Grand titre :
+
+"Des solutions professionnelles pensées pour vos besoins."
+
+Sous-titre court expliquant clairement l'activité.
+
+Deux CTA :
+
+"Demander un devis"
+
+"Découvrir nos réalisations"
+
+À droite ou en arrière-plan :
+
+grande photographie professionnelle liée au secteur.
+
+Ajouter un petit élément de confiance :
+
+★★★★★
+"Nos clients nous recommandent"
+
+ou :
+
+"10+ ans d'expérience"
+"500+ projets réalisés"
+
+Les chiffres doivent être facilement modifiables.
+
+Le Hero doit être immédiatement compréhensible en moins de 5 secondes.
+
+---
+
+# 3. BARRE DE CONFIANCE
+
+Sous le Hero, créer une bande très élégante contenant 3 à 5 éléments :
+
+✓ Expertise professionnelle
+✓ Devis personnalisé
+✓ Intervention rapide
+✓ Accompagnement personnalisé
+✓ Satisfaction client
+
+Ne pas utiliser de grosses cartes.
+
+---
+
+# 4. SERVICES
+
+Titre :
+
+"Ce que nous faisons"
+
+Créer une présentation des services avec une composition éditoriale élégante.
+
+Chaque service :
+
+Numéro 01
+Nom du service
+Courte description
+Lien "En savoir plus"
+
+Au survol :
+
+micro-animation subtile.
+
+Exemple pour une entreprise de nettoyage :
+
+01 Nettoyage professionnel
+02 Nettoyage bureaux
+03 Nettoyage industriel
+04 Nettoyage après travaux
+
+Pour un architecte :
+
+01 Architecture
+02 Architecture intérieure
+03 Aménagement
+04 Suivi de chantier
+
+Le contenu doit être facilement remplaçable.
+
+---
+
+# 5. SECTION "POURQUOI NOUS"
+
+Créer une section forte destinée à convaincre.
+
+À gauche :
+
+grande image ou composition photographique.
+
+À droite :
+
+"Pourquoi choisir [NOM] ?"
+
+3 à 4 arguments avec une hiérarchie claire.
+
+Exemple :
+
+01
+Une expertise maîtrisée
+
+02
+Des solutions adaptées à chaque projet
+
+03
+Un accompagnement de proximité
+
+04
+Une qualité constante
+
+Ajouter une courte preuve ou statistique.
+
+---
+
+# 6. RÉALISATIONS / PORTFOLIO
+
+Créer une galerie premium.
+
+Pas une grille de 12 cartes identiques.
+
+Utiliser une composition éditoriale :
+
+* grande réalisation
+* deux petites
+* grande réalisation
+* etc.
+
+Chaque projet peut contenir :
+
+Nom
+Catégorie
+Ville
+Année
+
+Exemple :
+
+"Villa contemporaine"
+"Architecture intérieure"
+"Casablanca — 2026"
+
+Au clic :
+
+ouverture d'une fiche projet détaillée.
+
+---
+
+# 7. SECTION PROCESSUS
+
+Créer une timeline simple :
+
+01
+Premier échange
+
+02
+Analyse du besoin
+
+03
+Proposition
+
+04
+Réalisation
+
+05
+Livraison / suivi
+
+Cette section doit être adaptable à tous les secteurs.
+
+Pour un restaurant, elle peut devenir :
+
+Découvrir
+Choisir
+Commander
+Profiter
+
+Pour une agence immobilière :
+
+Recherche
+Sélection
+Visite
+Acquisition
+
+---
+
+# 8. TÉMOIGNAGES
+
+Créer une section témoignages très crédible.
+
+Ne pas utiliser de faux avis trop longs.
+
+Format :
+
+★★★★★
+
+"Service professionnel et très bon accompagnement."
+
+Nom client
+Fonction / entreprise
+
+Prévoir un slider discret.
+
+---
+
+# 9. SECTION CTA
+
+Créer une section visuellement forte mais simple.
+
+Titre :
+
+"Un projet en tête ? Parlons-en."
+
+Texte :
+
+"Expliquez-nous votre besoin et recevez une réponse adaptée à votre projet."
+
+Boutons :
+
+"Demander un devis"
+
+"WhatsApp"
+
+Le bouton WhatsApp doit être particulièrement visible sur mobile.
+
+---
+
+# 10. CONTACT
+
+Créer une vraie section de conversion.
+
+À gauche :
+
+"Parlons de votre projet."
+
+Téléphone
+WhatsApp
+Email
+Adresse
+Horaires
+
+À droite :
+
+formulaire :
+
+Nom
+Téléphone
+Email
+Service recherché
+Message
+
+Bouton :
+
+"Envoyer ma demande"
+
+Ajouter une validation visuelle après l'envoi.
+
+---
+
+# 11. FOOTER
+
+Footer professionnel :
+
+Logo
+
+Courte présentation
+
+Navigation
+
+Services
+
+Contact
+
+Réseaux sociaux
+
+WhatsApp
+
+Mentions légales
+Politique de confidentialité
+
+Copyright.
+
+---
+
+# FONCTIONNALITÉS
+
+Le template doit être réellement utilisable.
+
+Inclure :
+
+* responsive design
+* mobile-first
+* menu mobile
+* navigation sticky
+* smooth scrolling
+* formulaire fonctionnel côté frontend
+* validation des champs
+* bouton WhatsApp dynamique
+* liens téléphone/email
+* galerie portfolio
+* slider témoignages
+* animations au scroll très légères
+* hover states
+* loading states
+* états empty/error
+* SEO metadata
+* Open Graph
+* favicon
+* sitemap-ready
+* structure accessible
+* bonnes pratiques HTML
+* boutons accessibles
+* contraste correct
+
+## PERFORMANCE
+
+Le site doit être optimisé pour :
+
+* Core Web Vitals
+* images WebP/AVIF
+* lazy loading
+* code propre
+* composants réutilisables
+* peu de JavaScript inutile
+
+Éviter les bibliothèques lourdes si elles ne sont pas nécessaires.
+
+## TECHNOLOGIE
+
+Construire avec :
+
+React
+Vite
+Tailwind CSS
+
+Architecture propre et professionnelle.
+
+Structure recommandée :
+
+src/
+components/
+sections/
+pages/
+data/
+assets/
+hooks/
+utils/
+styles/
+
+Les contenus doivent être séparés du design afin de pouvoir transformer rapidement le site pour un autre client.
+
+Créer par exemple :
+
+siteConfig.js
+
+services.js
+
+projects.js
+
+testimonials.js
+
+contact.js
+
+Ainsi, pour passer d'un restaurant à un cabinet comptable, je dois principalement changer les données et les images, pas reconstruire le site.
+
+# PERSONNALISATION PAR SECTEUR
+
+Créer un système de "sector presets".
+
+Exemples :
+
+ARCHITECTURE
+
+Style :
+éditorial / architectural / premium
+
+Priorité :
+portfolio + projets + expertise
+
+RESTAURATION
+
+Style :
+chaleureux / élégant
+
+Priorité :
+menu + réservation + localisation
+
+IMMOBILIER
+
+Style :
+premium / confiance
+
+Priorité :
+biens + recherche + contact
+
+COMPTABILITÉ
+
+Style :
+sobre / institutionnel
+
+Priorité :
+services + expertise + prise de rendez-vous
+
+NETTOYAGE
+
+Style :
+propre / professionnel
+
+Priorité :
+services + zones d'intervention + devis
+
+AUTOMOBILE
+
+Style :
+technique / dynamique
+
+Priorité :
+services + véhicules + contact
+
+CONSTRUCTION
+
+Style :
+solide / professionnel
+
+Priorité :
+réalisations + expertise + demande de devis
+
+MENUISERIE / CUISINE
+
+Style :
+visuel / artisanal / premium
+
+Priorité :
+réalisations + matériaux + devis
+
+## CONTENU
+
+Ne pas utiliser des textes génériques comme :
+
+"Nous sommes une entreprise innovante qui révolutionne..."
+
+Utiliser un langage humain et crédible.
+
+Les textes doivent être :
+
+* courts
+* précis
+* professionnels
+* orientés client
+* adaptés au secteur marocain
+
+Prévoir des exemples de contenu pour au moins :
+
+architecte
+restaurant
+entreprise de nettoyage
+expert-comptable
+agence immobilière
+garage
+
+## VERSION COMMERCIALE
+
+Le résultat final doit être suffisamment impressionnant pour que je puisse ouvrir le site devant un prospect et lui dire :
+
+"Voici à quoi votre entreprise pourrait ressembler en ligne."
+
+Le client doit pouvoir imaginer immédiatement **son propre logo, ses propres photos et ses propres services dans le template**.
+
+Créer donc un système où :
+
+Entreprise A → architecture premium
+
+Entreprise B → restaurant élégant
+
+Entreprise C → cabinet comptable sérieux
+
+Entreprise D → nettoyage professionnel
+
+sans que le site donne l'impression d'être le même site copié-collé.
+
+## IMPORTANT
+
+Je ne veux pas seulement une belle maquette.
+
+Je veux une **base de produit réellement exploitable par un développeur professionnel**.
+
+Le code doit être :
+
+* propre
+* maintenable
+* modulaire
+* réutilisable
+* responsive
+* sans erreurs
+* sans composants inutilisés
+* sans liens cassés
+* sans texte "Lorem ipsum"
+
+Avant de considérer le projet terminé, vérifier :
+
+✓ Responsive mobile/tablette/desktop
+✓ Navigation
+✓ Boutons
+✓ Formulaire
+✓ WhatsApp
+✓ Portfolio
+✓ Animations
+✓ Accessibilité
+✓ SEO
+✓ Performance
+✓ Cohérence visuelle
+✓ Aucun élément qui déborde
+✓ Aucun texte coupé
+✓ Aucun lien fictif
+✓ Aucun composant cassé
+
+Le résultat final doit donner l'impression d'un **site créé sur mesure par une agence web professionnelle**, pas d'un template IA.
+
+
+Claude Haiku 4.5:
+# Template de Site Vitrine Premium pour PME Marocaines
+
+Je vais créer une **base de produit réellement exploitable** : un template haute gamme, modulaire et adaptable à 20+ secteurs. C'est un projet complet, donc je l'organise en phases.
+
+---
+
+## Phase 1 : Architecture & Structure
+
+### 1.1 Structure du projet React + Vite
+
+```
+premium-showcase-template/
+├── src/
+│   ├── components/
+│   │   ├── Header.jsx
+│   │   ├── Hero.jsx
+│   │   ├── TrustBar.jsx
+│   │   ├── Services.jsx
+│   │   ├── WhyChooseUs.jsx
+│   │   ├── Portfolio.jsx
+│   │   ├── Process.jsx
+│   │   ├── Testimonials.jsx
+│   │   ├── CTASection.jsx
+│   │   ├── Contact.jsx
+│   │   ├── Footer.jsx
+│   │   └── common/
+│   │       ├── Button.jsx
+│   │       ├── SectionTitle.jsx
+│   │       ├── Card.jsx
+│   │       └── Modal.jsx
+│   │
+│   ├── layouts/
+│   │   └── MainLayout.jsx
+│   │
+│   ├── pages/
+│   │   ├── Home.jsx
+│   │   ├── Services.jsx
+│   │   ├── Portfolio.jsx
+│   │   └── NotFound.jsx
+│   │
+│   ├── config/
+│   │   ├── siteConfig.js
+│   │   ├── sectorPresets.js
+│   │   └── designTokens.js
+│   │
+│   ├── data/
+│   │   ├── services.js
+│   │   ├── projects.js
+│   │   ├── testimonials.js
+│   │   ├── process.js
+│   │   └── contact.js
+│   │
+│   ├── hooks/
+│   │   ├── useSectorConfig.js
+│   │   ├── useScrollAnimation.js
+│   │   └── useWhatsApp.js
+│   │
+│   ├── utils/
+│   │   ├── cn.js (classname helper)
+│   │   ├── formatters.js
+│   │   └── seo.js
+│   │
+│   ├── styles/
+│   │   ├── globals.css
+│   │   ├── variables.css
+│   │   └── animations.css
+│   │
+│   ├── assets/
+│   │   ├── images/
+│   │   ├── icons/
+│   │   └── fonts/
+│   │
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── public/
+├── index.html
+├── tailwind.config.js
+├── vite.config.js
+├── package.json
+└── README.md
+```
+
+---
+
+## Phase 2 : Configuration & Design Tokens
+
+### 2.1 `designTokens.js` - Variables universelles
+
+```javascript
+// src/config/designTokens.js
+
+export const designTokens = {
+  // Espaces (8px base)
+  spacing: {
+    xs: '0.5rem',   // 8px
+    sm: '1rem',     // 16px
+    md: '1.5rem',   // 24px
+    lg: '2rem',     // 32px
+    xl: '3rem',     // 48px
+    '2xl': '4rem',  // 64px
+    '3xl': '6rem',  // 96px
+    '4xl': '8rem',  // 128px
+  },
+
+  // Typographie
+  typography: {
+    fontFamily: {
+      sans: '"Inter", "-apple-system", "BlinkMacSystemFont", "Segoe UI", sans-serif',
+      serif: '"Playfair Display", serif',
+    },
+    fontSize: {
+      xs: '0.75rem',     // 12px
+      sm: '0.875rem',    // 14px
+      base: '1rem',      // 16px
+      lg: '1.125rem',    // 18px
+      xl: '1.25rem',     // 20px
+      '2xl': '1.5rem',   // 24px
+      '3xl': '2rem',     // 32px
+      '4xl': '2.5rem',   // 40px
+      '5xl': '3rem',     // 48px
+    },
+    fontWeight: {
+      light: 300,
+      normal: 400,
+      medium: 500,
+      semibold: 600,
+      bold: 700,
+    },
+    lineHeight: {
+      tight: 1.2,
+      normal: 1.5,
+      relaxed: 1.75,
+      loose: 2,
+    },
+  },
+
+  // Couleurs (variables par secteur)
+  colors: {
+    // Light mode
+    light: {
+      background: '#ffffff',
+      surface: '#f9f9f9',
+      text: '#1a1a1a',
+      muted: '#666666',
+      border: '#e5e5e5',
+      accent: '#f0f0f0',
+    },
+    // À adapter selon sectorPresets
+  },
+
+  // Ombres
+  shadows: {
+    none: 'none',
+    xs: '0 1px 2px 0 rgba(0, 0, 0, 0.05)',
+    sm: '0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06)',
+    md: '0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06)',
+    lg: '0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05)',
+    xl: '0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04)',
+  },
+
+  // Animations
+  animations: {
+    duration: {
+      fast: '150ms',
+      normal: '300ms',
+      slow: '500ms',
+    },
+    timing: 'cubic-bezier(0.4, 0, 0.2, 1)', // ease-in-out
+  },
+
+  // Breakpoints
+  breakpoints: {
+    xs: '320px',
+    sm: '640px',
+    md: '768px',
+    lg: '1024px',
+    xl: '1280px',
+    '2xl': '1536px',
+  },
+
+  // Transitions fluides
+  transitions: {
+    default: 'all 300ms cubic-bezier(0.4, 0, 0.2, 1)',
+    colors: 'color 300ms cubic-bezier(0.4, 0, 0.2, 1)',
+    transform: 'transform 300ms cubic-bezier(0.4, 0, 0.2, 1)',
+  },
+};
+
+export default designTokens;
+```
+
+### 2.2 `siteConfig.js` - Configuration par défaut
+
+```javascript
+// src/config/siteConfig.js
+
+export const siteConfig = {
+  // Identité entreprise
+  company: {
+    name: 'Studio Design',
+    logo: '/assets/logo.svg',
+    tagline: 'Des solutions professionnelles pensées pour vos besoins',
+    description: 'Agence spécialisée en architecture et design intérieur',
+  },
+
+  // Couleurs primaires (facilement modifiables)
+  branding: {
+    primary: '#1a1a1a',      // Noir professionnel
+    secondary: '#666666',    // Gris médium
+    accent: '#e8b44f',       // Or discret
+    success: '#10b981',
+    warning: '#f59e0b',
+    error: '#ef4444',
+  },
+
+  // Contact
+  contact: {
+    phone: '+212 5XX XXX XXX',
+    whatsapp: '+212XXXXXXXXX',
+    email: 'contact@example.com',
+    address: 'Casablanca, Maroc',
+    hours: {
+      weekday: '09:00 - 18:00',
+      weekend: 'Sur rendez-vous',
+    },
+  },
+
+  // SEO
+  seo: {
+    title: 'Studio Design - Architecture & Design Intérieur',
+    description: 'Créez l\'espace de vos rêves avec notre expertise en architecture et design intérieur.',
+    keywords: ['architecture', 'design', 'intérieur', 'casablanca'],
+    ogImage: '/assets/og-image.jpg',
+    twitterHandle: '@studiodesign',
+  },
+
+  // Navigation
+  navigation: [
+    { label: 'Accueil', href: '#home' },
+    { label: 'Services', href: '#services' },
+    { label: 'Réalisations', href: '#portfolio' },
+    { label: 'À propos', href: '#about' },
+    { label: 'Avis', href: '#testimonials' },
+    { label: 'Contact', href: '#contact' },
+  ],
+
+  // Sociaux
+  social: {
+    facebook: 'https://facebook.com',
+    instagram: 'https://instagram.com',
+    linkedin: 'https://linkedin.com',
+  },
+
+  // Statistiques de confiance
+  trustMetrics: {
+    yearsExperience: 10,
+    projectsCompleted: 500,
+    clientSatisfaction: 98,
+    teamSize: 15,
+  },
+
+  // CTA primaire
+  primaryCTA: {
+    text: 'Demander un devis',
+    href: '#contact',
+  },
+
+  // Secteur d'activité (voir sectorPresets)
+  sector: 'architecture',
+};
+
+export default siteConfig;
+```
+
+### 2.3 `sectorPresets.js` - Adaptations par secteur
+
+```javascript
+// src/config/sectorPresets.js
+
+export const sectorPresets = {
+  architecture: {
+    id: 'architecture',
+    name: 'Architecture',
+    style: {
+      primary: '#1a1a1a',
+      accent: '#d4a574',
+      tone: 'editorial',
+    },
+    sections: {
+      hero: true,
+      services: true,
+      portfolio: true,
+      process: true,
+      testimonials: true,
+      about: true,
+    },
+    content: {
+      heroLabel: 'EXPERTISE • QUALITÉ • PROXIMITÉ',
+      heroTitle: 'Vos espaces rêvés, conçus avec passion',
+      heroDescription: 'Architecture, design intérieur et aménagement sur mesure pour vos projets résidentiels et commerciaux.',
+      whyUsTitle: 'Pourquoi choisir notre agence ?',
+      whyUsPoints: [
+        { title: 'Expertise architecturale', description: 'Conception innovante et respectueuse des normes' },
+        { title: 'Approche personnalisée', description: 'Écoute de vos besoins et contraintes' },
+        { title: 'Suivi de projet', description: 'Accompagnement du concept à la réalisation' },
+        { title: 'Qualité garantie', description: 'Finitions impeccables et délais respectés' },
+      ],
+    },
+    portfolio: {
+      displayMode: 'masonry', // ou 'grid', 'slider'
+      itemsPerPage: 12,
+    },
+  },
+
+  restaurant: {
+    id: 'restaurant',
+    name: 'Restaurant',
+    style: {
+      primary: '#8b4513',
+      accent: '#d4a574',
+      tone: 'warm',
+    },
+    sections: {
+      hero: true,
+      menu: true,
+      atmosphere: true,
+      testimonials: true,
+      reservation: true,
+    },
+    content: {
+      heroLabel: 'SAVEURS • AMBIANCE • CONVIVIALITÉ',
+      heroTitle: 'Une expérience culinaire inoubliable',
+      heroDescription: 'Venez découvrir nos plats signatures élaborés avec des ingrédients frais et locaux.',
+    },
+  },
+
+  nettoyage: {
+    id: 'nettoyage',
+    name: 'Entreprise de nettoyage',
+    style: {
+      primary: '#0f766e',
+      accent: '#14b8a6',
+      tone: 'clean',
+    },
+    sections: {
+      hero: true,
+      services: true,
+      coverage: true,
+      testimonials: true,
+      process: true,
+    },
+    content: {
+      heroLabel: 'PROPRETÉ • FIABILITÉ • EFFICACITÉ',
+      heroTitle: 'Des espaces propres et sains',
+      heroDescription: 'Solutions de nettoyage professionnelles pour bureaux, commerces et locaux industriels.',
+      whyUsTitle: 'Pourquoi nous faire confiance ?',
+      whyUsPoints: [
+        { title: 'Équipes formées', description: 'Personnel qualifié et expérimenté' },
+        { title: 'Produits écologiques', description: 'Respectueux de l\'environnement et de votre santé' },
+        { title: 'Disponibilité', description: 'Interventions flexibles selon vos besoins' },
+        { title: 'Garantie qualité', description: 'Satisfaction garantie ou remboursement' },
+      ],
+    },
+  },
+
+  comptabilite: {
+    id: 'comptabilite',
+    name: 'Cabinet comptable',
+    style: {
+      primary: '#1e3a8a',
+      accent: '#3b82f6',
+      tone: 'institutional',
+    },
+    sections: {
+      hero: true,
+      services: true,
+      expertise: true,
+      testimonials: true,
+      process: true,
+    },
+    content: {
+      heroLabel: 'EXPERTISE • SÉRIEUX • CONFIANCE',
+      heroTitle: 'Votre partenaire comptable de confiance',
+      heroDescription: 'Conseil, expertise-comptable et optimisation fiscale pour PME et freelances.',
+      whyUsTitle: 'Pourquoi choisir notre cabinet ?',
+      whyUsPoints: [
+        { title: 'Expertise reconnue', description: 'Membres de l\'ordre des experts-comptables' },
+        { title: 'Conseil personnalisé', description: 'Stratégie adaptée à votre activité' },
+        { title: 'Sécurité juridique', description: 'Conformité totale avec les normes' },
+        { title: 'Accompagnement', description: 'Disponibilité et réactivité garanties' },
+      ],
+    },
+  },
+
+  immobilier: {
+    id: 'immobilier',
+    name: 'Agence immobilière',
+    style: {
+      primary: '#7c2d12',
+      accent: '#ea580c',
+      tone: 'premium',
+    },
+    sections: {
+      hero: true,
+      properties: true,
+      services: true,
+      testimonials: true,
+      search: true,
+    },
+    content: {
+      heroLabel: 'QUALITÉ • EXPERTISE • PROXIMITÉ',
+      heroTitle: 'Trouvez le bien immobilier de vos rêves',
+      heroDescription: 'Achat, vente et location de propriétés premium à Casablanca et région.',
+      whyUsTitle: 'Pourquoi nous faire confiance ?',
+      whyUsPoints: [
+        { title: 'Portefeuille exclusif', description: 'Sélection de biens premium' },
+        { title: 'Expertise locale', description: 'Connaissance approfondie du marché' },
+        { title: 'Service transparent', description: 'Accompagnement de A à Z' },
+        { title: 'Négociation', description: 'Meilleure qualité au meilleur prix' },
+      ],
+    },
+  },
+
+  garage: {
+    id: 'garage',
+    name: 'Garage automobile',
+    style: {
+      primary: '#1f2937',
+      accent: '#ef4444',
+      tone: 'technical',
+    },
+    sections: {
+      hero: true,
+      services: true,
+      expertise: true,
+      testimonials: true,
+      contact: true,
+    },
+    content: {
+      heroLabel: 'QUALITÉ • COMPÉTENCE • FIABILITÉ',
+      heroTitle: 'Entretien et réparation automobile de qualité',
+      heroDescription: 'Mécanique générale, diagnostic électronique, pièces d\'origine garanties.',
+    },
+  },
+
+  cuisiniste: {
+    
